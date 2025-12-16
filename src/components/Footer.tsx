@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="mx-auto flex max-w-7xl flex-col gap-6 px-6 py-10 md:flex-row md:items-center md:justify-between">
         <div>
           <p className="text-sm font-semibold text-[#7A1E2D]">
-            Alejandro<span className="font-normal text-gray-800">.dev</span>
+            Alejandro<span className="font-normal text-gray-800">.Glez</span>
           </p>
           <p className="mt-2 text-sm text-gray-600">
             Frontend Developer — UI limpia, accesibilidad y buenas prácticas.
