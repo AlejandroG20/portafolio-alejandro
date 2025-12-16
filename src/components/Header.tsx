@@ -3,7 +3,7 @@ export default function Header() {
     <header className="sticky top-0 z-50 w-full border-b border-gray-200 bg-white/80 backdrop-blur">
       <div className="mx-auto flex h-20 max-w-7xl items-center justify-between px-6">
         <a href="#hero" className="text-3xl font-semibold text-[#7A1E2D]">
-          Alejandro<span className="font-normal text-gray-800">.dev</span>
+          Alejandro<span className="font-normal text-gray-800">.Glez</span>
         </a>
 
         <nav className="hidden items-center gap-8 md:flex">
